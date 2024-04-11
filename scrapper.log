@@ -1,0 +1,41 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.34:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:192.168.0.34 - - [11/Apr/2024 17:36:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.34 - - [11/Apr/2024 17:36:31] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.34 - - [11/Apr/2024 17:36:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.34 - - [11/Apr/2024 17:36:36] "[31m[1mPOST /review HTTP/1.1[0m" 405 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.34:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:192.168.0.34 - - [11/Apr/2024 17:37:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.34 - - [11/Apr/2024 17:37:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.34 - - [11/Apr/2024 17:37:34] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /apple-iphone-11-pro-space-grey-64-gb/p/itm7e24c1c560208?pid=MOBFKCTSAYWUW8HP&lid=LSTMOBFKCTSAYWUW8HPJCKO3E&marketplace=FLIPKART&q=iphone11pro&store=tyy%2F4io&srno=s_1_2&otracker=search&fm=organic&iid=65300ece-ac13-4db0-a065-e2fefce9ba00.MOBFKCTSAYWUW8HP.SEARCH&ppt=None&ppn=None&ssid=azh1i4aik00000001712837259934&qH=8c67e3c01d95ccf5 HTTP/1.1" 200 None
+INFO:root:Flipkart Customer
+INFO:root:No rating
+INFO:root:No Comment head
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone11pro', 'Name': 'kangba lovejoy pungding', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'I bought during the big billion sale. It’s worth every penny. First iOS user and overwhelmed. The photos are much better than my mirror less camera. If you got the budget, go for it..... Don’t think twice.'}, {'Product': 'iphone11pro', 'Name': 'Ravi Tripathi', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Superb...'}, {'Product': 'iphone11pro', 'Name': 'Amit Prakash', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Fast performance to previous iPhone xGood camera quality but the best part of night mode #killingI am already One-plus7Huge difference between in night mode                &iPhones 11 pro winsDisplay is also great in  #iPhone 11 proDisappointed —-You can’t be move your data android to iphone , Move to ios app not working in that case.iPhone change his USB type cable, You cant be charge your phone to power bank through this cable.... type c plug replaces USB plug'}, {'Product': 'iphone11pro', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Great'}, {'Product': 'iphone11pro', 'Name': 'Hitik Soni', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'very good phone no complains yetoutstanding camera the videos and pictures are very great'}, {'Product': 'iphone11pro', 'Name': 'Samarth tripathi', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Good performance & camera'}, {'Product': 'iphone11pro', 'Name': 'shyam prakash', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Good product. Happy to buy it.'}, {'Product': 'iphone11pro', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'iPhone always rock, thanks Flipkart for such a good offer ..!!? 7star phone'}, {'Product': 'iphone11pro', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Best apple phone I market \U0001f918\U0001f3fb'}, {'Product': 'iphone11pro', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Awesome phone .. it makes you love it.. just go for it if you can afford it without second thoughts'}, {'Product': 'iphone11pro', 'Name': 'Flipkart Customer', 'Rating': 'No rating', 'CommentHead': 'No Comment head', 'Comment': 'Awesome phone .. it makes you love it.. just go for it if you can afford it without second thoughts'}]
+INFO:werkzeug:192.168.0.34 - - [11/Apr/2024 17:37:40] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.34 - - [11/Apr/2024 17:37:40] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.34 - - [11/Apr/2024 17:37:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /safari-ashper-cb-6-pockets-30-l-laptop-backpack/p/itm96ea30de5e4bf?pid=BKPGH8YNPHFQKKDZ&lid=LSTBKPGH8YNPHFQKKDZWYTYUL&marketplace=FLIPKART&q=bagformen&store=search.flipkart.com&srno=s_1_9&otracker=search&fm=organic&iid=d54aed72-4320-4572-9534-04c99773c9a1.BKPGH8YNPHFQKKDZ.SEARCH&ppt=None&ppn=None&ssid=iwvkdbv8qo0000001712837323744&qH=68d91fb5a00cec2a HTTP/1.1" 200 None
+INFO:root:cannot access local variable 'name' where it is not associated with a value
+INFO:werkzeug:192.168.0.34 - - [11/Apr/2024 17:38:47] "POST /review HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /redmi-11-prime-peppy-purple-128-gb/p/itm52d6b0fe396e9?pid=MOBGZHFGUHYSHQYM&lid=LSTMOBGZHFGUHYSHQYMWGOOJ0&marketplace=FLIPKART&q=redmi11&store=tyy%2F4io&srno=s_1_2&otracker=search&fm=organic&iid=5f64f5d0-3d1a-4d26-9881-92f1b58d063c.MOBGZHFGUHYSHQYM.SEARCH&ppt=None&ppn=None&ssid=yqkt40kh9s0000001712837366963&qH=2590f0644fce0184 HTTP/1.1" 200 None
+INFO:root:Snigdhata Ghosh
+INFO:root:No rating
+INFO:root:No Comment head
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'redmi11', 'Name': 'rahul kumar', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Best option in this price point'}, {'Product': 'redmi11', 'Name': 'SAGAR T THORBOLE', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': "This is Honest Review. Performance is best. 5/5Display is also best. 5/5Camera is Average 3/5Battery is Best 5/5(No Lag No Hang, Smooth UI, Perfect Design) Don't Think Go for it"}, {'Product': 'redmi11', 'Name': 'Mizanur Rahaman', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Nice camera.'}, {'Product': 'redmi11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Excellent'}, {'Product': 'redmi11', 'Name': 'Kannan Cs', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'The best mobile in under 11000 the best and best phone  usefull money'}, {'Product': 'redmi11', 'Name': 'Dabi Prosad', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'Good Mobile Phone in low price'}, {'Product': 'redmi11', 'Name': 'sushant kumar', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Super smart phone nice display love this phone'}, {'Product': 'redmi11', 'Name': 'Shivam Mohanty', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': "Battery doesn't charge quickly. Takes a long time to charge.\U0001f614\U0001f614\U0001f614"}, {'Product': 'redmi11', 'Name': 'Manzoor Hussain', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'I love my phone'}, {'Product': 'redmi11', 'Name': 'Snigdhata Ghosh', 'Rating': '4', 'CommentHead': 'Classy product', 'Comment': 'Value for money.... Good quality, Good looking...'}, {'Product': 'redmi11', 'Name': 'Snigdhata Ghosh', 'Rating': 'No rating', 'CommentHead': 'No Comment head', 'Comment': 'Value for money.... Good quality, Good looking...'}]
+INFO:werkzeug:192.168.0.34 - - [11/Apr/2024 17:39:28] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.34 - - [11/Apr/2024 17:39:28] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.34 - - [11/Apr/2024 17:39:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
